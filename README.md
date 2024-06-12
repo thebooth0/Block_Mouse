@@ -1,4 +1,4 @@
-# Block_Mous
+# Block_Mouse
 Bloque les actions de la souris
 
 ## Description
